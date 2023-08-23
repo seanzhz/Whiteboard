@@ -1,2 +1,2 @@
-# Distrubted-Shared-Whiteboard
+#Java Whiteboard
  
